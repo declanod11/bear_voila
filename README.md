@@ -1,5 +1,5 @@
-# bear_voila
+# Sport_voila
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/bear_voila/master?urlpath=%2Fvoila%2Frender%2Fbear_classifier.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/declanod11/bear_voila/master?urlpath=%2Fvoila%2Frender%2Fsportclassifier.ipynb)
 
-Demo bear classifier with fastai and Voila
+Demo sport classifier with fastai and Voila
